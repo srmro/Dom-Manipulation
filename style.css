@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #F9F1CD ;
+}
+
+ .pictures {
+width: 80%;
+height: 100%;
+ } 
+
+#mexico-color {
+  background-color: #03CB81 ;
+}
+
+#pachuca-color {
+  background-color: #1E4FCE;
+}
+
+#michoacan-color {
+  background-color: #FDE70E;
+}
+
+#favorites-color {
+  background-color: #E4649B;
+}
